@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "S\u1ea3n ph\u1ea9m A",
+        "price": 150000
+    },
+    {
+        "id": 2,
+        "name": "S\u1ea3n ph\u1ea9m B",
+        "price": 250000
+    },
+    {
+        "id": 3,
+        "name": "S\u1ea3n ph\u1ea9m C",
+        "price": 350000
+    },
+    {
+        "id": 4,
+        "name": "san pham D",
+        "price": 30000
+    },
+    {
+        "id": 5,
+        "name": "san pham e",
+        "price": 222
+    }
+]
